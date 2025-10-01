@@ -5,7 +5,7 @@ This repository contains the source code and data samples for reproducing the ex
 We implemented our LEO method in Python using Tensorflow (version 2.9.0) and Python (version 3.9). Other required packages are transformers, keras, scikit-learn, numpy, scipy, and pickle.
 
 ## Datasets and Pre-trained models
-The "data" folder contains source code samples (associated with specific CWE categories) used in the training and testing (inference) phases. The "leo" folder houses pre-trained models of our LEO method on the source code samples. Please download these folders including all of their files at [https://drive.google.com/drive/folders/1ml9-qZS76RJbMdoBANq9KiJvyHUYfhr9?usp=sharing.](https://drive.google.com/drive/folders/1iCmNv2oDtw4XFbgAntGIAwNcnea-gCE0?usp=sharing).
+The "data" folder contains source code samples (associated with specific CWE categories) used in the training and testing (inference) phases. The "leo" folder houses pre-trained models of our LEO method on the source code samples. Please download these folders including all of their files at https://drive.google.com/drive/folders/1766OFJ4OsAZ6rdNe-ZZlYFle-HzxJ29U?usp=sharing.
 
 ## Running LEO (the training process)
 To train our LEO method, run the following command, for example:<br/>
